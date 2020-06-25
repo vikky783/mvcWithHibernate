@@ -1,4 +1,4 @@
-package org.rashmi.assignment.model;
+package org.vikky.assignment.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

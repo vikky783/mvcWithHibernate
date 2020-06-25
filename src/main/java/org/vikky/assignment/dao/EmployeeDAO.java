@@ -1,12 +1,12 @@
-package org.rashmi.assignment.dao;
+package org.vikky.assignment.dao;
 
 import java.util.List;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-import org.rashmi.assignment.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
+import org.vikky.assignment.model.Employee;
 
 @Repository
 public class EmployeeDAO {

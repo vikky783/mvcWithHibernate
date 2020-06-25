@@ -1,12 +1,12 @@
-package org.rashmi.assignment.service;
+package org.vikky.assignment.service;
 
 import java.util.List;
 
-import org.rashmi.assignment.dao.EmployeeDAO;
-import org.rashmi.assignment.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.vikky.assignment.dao.EmployeeDAO;
+import org.vikky.assignment.model.Employee;
 
 @Service("countryService")
 public class EmployeeService {
